@@ -1,0 +1,17 @@
+# Training outputs (checkpoints, history, learning curves): recreate with `python train.py`
+runs/
+
+# Generated media
+screenshots/
+*.mp4
+*.gif
+
+# Local game state
+highscore.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
